@@ -1,1 +1,1 @@
-# mozilal-translation-models
+# mozilla-translation-models
